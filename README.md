@@ -11,7 +11,7 @@
 
 **Real-time token vesting on Stellar — powered by Soroban smart contracts with live inter-contract calls.**
 
-🌐 **[Live Demo →](https://pay-stream.scorer-value-poppy.workers.dev/)**
+🌐 **[Live Demo →](https://paystream.fondue-ocean-flick.workers.dev/)**
 
 
 
